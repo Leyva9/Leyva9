@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ... Not For Now!
 - 📫 How to reach me leyva0919@gmail.com
+- ☕ Buy me a coffee https://paypal.me/deremyb?country.x=ES&locale.x=es_ES
 
 <!---
 Leyva9/Leyva9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
