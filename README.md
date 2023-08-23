@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Luis, ¡un futuro científico de la computación en proceso! 🌱
+# ¡Hola! 👋 Soy Luis, ¡un científico de la computación en proceso! 🌱
 
 ¡Bienvenido a mi rincón en GitHub! Me apasiona el mundo de las simulaciones de inteligencia artificial y estoy en constante búsqueda de nuevas formas de aprender y crecer en este emocionante campo.
 
