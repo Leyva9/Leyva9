@@ -1,17 +1,17 @@
-# Hello there! 👋 I'm Luis, a work-in-progress Computer Scientist! 🌱
+# Hello there! 👋 I'm Luis, a work-in-progress Computer Scientist! 💻
 
 Welcome to my corner on GitHub! I'm passionate about the world of AI simulations and am constantly on the lookout for new ways to learn and grow in this exciting field.
 
 ## ℹ️ About Me
-- 👀 Currently, I'm focused on exploring the thrilling realm of **AI simulations**.
-- 🌱 I'm also in an ongoing journey of learning **C#**, striving to enhance my programming skills. I have experience in crafting applications and projects using C#.
-- 🌐 I also venture into the realm of **web development**, working with technologies like HTML, CSS, and JavaScript to create interactive and appealing web experiences.
-- 🐍 Additionally, I'm skilled in **Python scripting** for various tasks, including web automation.
-- 🌐 Furthermore, I'm proficient in **JavaScript scripting**, using it for web automation and dynamic content manipulation.
-- 💞️ While I don't have immediate collaboration plans, I'm always open to new opportunities and exciting projects in the future!
+- 👀 Currently, focused on exploring the thrilling realm of **AI simulations**.
+- 🧑‍💻 Ongoing journey of learning **C#**, striving to enhance my programming skills. Experience in crafting applications and projects using C#.
+- 🚀 Ventured into the realm of **web development**, working with technologies like HTML, CSS, and JavaScript to create interactive and appealing web experiences.
+- ⌨️ Additionally, skilled in **Python scripting** for various tasks, including web automation.
+- 🌐 Furthermore, proficient in **JavaScript scripting**, using it for web automation and dynamic content manipulation.
+- 🤝 Always open to new opportunities and exciting projects in the future!
 
 ## 🛠️ Skills
-- **Programming:** C#, Python, HTML, CSS, JavaScript.
+- **Programming:** C#, JavaScript, Python.
 - **Software Development:** Experience in creating applications using C# and .NET.
 - **Web Development:** Crafting functional and eye-catching websites using HTML, CSS, and JavaScript.
 - **Scripting:** Automating tasks and web interactions using Python and JavaScript.
