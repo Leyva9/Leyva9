@@ -22,6 +22,7 @@ Welcome to my corner on GitHub! I'm passionate about the world of AI simulations
 
 Feel free to get in touch if you share similar interests or simply want to chat about technology, AI simulations, web development, scripting, or any other exciting topic! Hope to see you around! 😄
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Leyva9)](https://git.io/streak-stats)
 
 <!---
 Leyva9/Leyva9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
