@@ -1,4 +1,6 @@
-# Hello there! 👋 I'm Luis, a work-in-progress Computer Scientist! 💻
+# Hello there! 👋 I'm Luis! 💻
+
+<a href="https://app.daily.dev/leyva9"><img src="https://api.daily.dev/devcards/249241ec35644865a1d1f323d49d9e19.png?r=iai" width="400" alt="Luis Leyva's Dev Card"/></a>
 
 Welcome to my corner on GitHub! I'm passionate about the world of AI simulations and am constantly on the lookout for new ways to learn and grow in this exciting field.
 
