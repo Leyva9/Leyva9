@@ -1,6 +1,6 @@
 # Hello there! 👋 I'm Luis! 💻
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Leyva9/Leyva9/blob/master/devcard.svg" width="400" alt="Luis Leyva Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Leyva9/Leyva9/tree/main/devcard.svg" width="400" alt="Luis Leyva Dev Card"/></a>
 
 Welcome to my corner on GitHub! I'm passionate about the world of AI simulations and am constantly on the lookout for new ways to learn and grow in this exciting field.
 
